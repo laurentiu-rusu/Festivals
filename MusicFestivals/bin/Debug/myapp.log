@@ -1,0 +1,160 @@
+﻿2020-03-30 02:00:25,461 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-30 02:00:25,471 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:00:25,473 [1] INFO MusicFestivals.repositories.DbUtils - Get a new database connection
+2020-03-30 02:00:25,473 [1] INFO MusicFestivals.repositories.DbUtils - Get DB connection string from config file.
+2020-03-30 02:00:25,473 [1] INFO MusicFestivals.repositories.DbUtils - Db conn string: Data Source=/Users/user/UBB/Semestrul_ll/MPP/MusicFestivals/Music_festival.sqlite,Version=3
+2020-03-30 02:00:25,500 [1] INFO MusicFestivals.repositories.DbUtils - Connection established
+2020-03-30 02:00:25,501 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:00:25,503 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-03-30 02:01:46,715 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-30 02:01:46,724 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:01:46,725 [1] INFO MusicFestivals.repositories.DbUtils - Get a new database connection
+2020-03-30 02:01:46,725 [1] INFO MusicFestivals.repositories.DbUtils - Get DB connection string from config file.
+2020-03-30 02:01:46,726 [1] INFO MusicFestivals.repositories.DbUtils - Db conn string: Data Source=/Users/user/UBB/Semestrul_ll/MPP/MusicFestivals/Music_festival.sqlite,Version=3
+2020-03-30 02:01:46,749 [1] INFO MusicFestivals.repositories.DbUtils - Connection established
+2020-03-30 02:01:46,749 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:01:46,751 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-03-30 02:01:56,088 [1] INFO MusicFestivals.repositories.RepositoryUser - Find user by username and password
+2020-03-30 02:01:56,088 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:01:56,088 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:01:56,092 [1] INFO MusicFestivals.repositories.RepositoryUser - The user was found
+2020-03-30 02:02:17,287 [1] INFO MusicFestivals.repositories.RepositoryTicket - Find all tickets
+2020-03-30 02:02:17,287 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:02:17,287 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:02:17,287 [1] INFO MusicFestivals.repositories.RepositoryTicket - Return list of concerts
+2020-03-30 02:02:17,288 [1] INFO MusicFestivals.repositories.RepositoryTicket - Save new Ticket!
+2020-03-30 02:02:17,288 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:02:17,288 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:02:17,290 [1] INFO MusicFestivals.repositories.RepositoryTicket - Ticket added to db
+2020-03-30 02:02:17,291 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find concert by ID
+2020-03-30 02:02:17,291 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:02:17,291 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:02:17,291 [1] INFO MusicFestivals.repositories.RepositoryConcert - Concert was found
+2020-03-30 02:02:17,291 [1] INFO MusicFestivals.repositories.RepositoryConcert - Update concert's seats
+2020-03-30 02:02:17,291 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:02:17,291 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:02:17,292 [1] INFO MusicFestivals.repositories.RepositoryConcert - Seats were updated
+2020-03-30 02:02:17,293 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-30 02:02:17,293 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-30 02:02:17,293 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-30 02:02:17,293 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-03-31 10:04:12,917 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-31 10:04:12,931 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:04:12,933 [1] INFO MusicFestivals.repositories.DbUtils - Get a new database connection
+2020-03-31 10:04:12,934 [1] INFO MusicFestivals.repositories.DbUtils - Get DB connection string from config file.
+2020-03-31 10:04:12,934 [1] INFO MusicFestivals.repositories.DbUtils - Db conn string: Data Source=/Users/user/UBB/Semestrul_ll/MPP/MusicFestivals/Music_festival.sqlite,Version=3
+2020-03-31 10:04:12,965 [1] INFO MusicFestivals.repositories.DbUtils - Connection established
+2020-03-31 10:04:12,965 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:04:12,967 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-03-31 10:04:17,847 [1] INFO MusicFestivals.repositories.RepositoryUser - Find user by username and password
+2020-03-31 10:04:17,847 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:04:17,847 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:04:17,850 [1] INFO MusicFestivals.repositories.RepositoryUser - The user was found
+2020-03-31 10:04:30,832 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-31 10:04:30,832 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:04:30,832 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:04:30,832 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-03-31 10:16:39,225 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-31 10:16:39,237 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:16:39,238 [1] INFO MusicFestivals.repositories.DbUtils - Get a new database connection
+2020-03-31 10:16:39,239 [1] INFO MusicFestivals.repositories.DbUtils - Get DB connection string from config file.
+2020-03-31 10:16:39,239 [1] INFO MusicFestivals.repositories.DbUtils - Db conn string: Data Source=/Users/user/UBB/Semestrul_ll/MPP/MusicFestivals/Music_festival.sqlite,Version=3
+2020-03-31 10:16:39,277 [1] INFO MusicFestivals.repositories.DbUtils - Connection established
+2020-03-31 10:16:39,278 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:16:39,280 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-03-31 10:16:50,778 [1] INFO MusicFestivals.repositories.RepositoryUser - Find user by username and password
+2020-03-31 10:16:50,779 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:16:50,779 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:16:50,782 [1] INFO MusicFestivals.repositories.RepositoryUser - The user was found
+2020-03-31 10:17:00,637 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-31 10:17:00,637 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:17:00,637 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:17:00,637 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-03-31 10:17:14,461 [1] INFO MusicFestivals.repositories.RepositoryTicket - Find all tickets
+2020-03-31 10:17:14,461 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:17:14,461 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:17:14,462 [1] INFO MusicFestivals.repositories.RepositoryTicket - Return list of concerts
+2020-03-31 10:17:14,463 [1] INFO MusicFestivals.repositories.RepositoryTicket - Save new Ticket!
+2020-03-31 10:17:14,463 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:17:14,463 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:17:14,464 [1] INFO MusicFestivals.repositories.RepositoryTicket - Ticket added to db
+2020-03-31 10:17:14,464 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find concert by ID
+2020-03-31 10:17:14,464 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:17:14,464 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:17:14,465 [1] INFO MusicFestivals.repositories.RepositoryConcert - Concert was found
+2020-03-31 10:17:14,465 [1] INFO MusicFestivals.repositories.RepositoryConcert - Update concert's seats
+2020-03-31 10:17:14,465 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:17:14,465 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:17:14,466 [1] INFO MusicFestivals.repositories.RepositoryConcert - Seats were updated
+2020-03-31 10:17:14,467 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-03-31 10:17:14,467 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-03-31 10:17:14,467 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-03-31 10:17:14,467 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:09,328 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:09,342 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:09,345 [1] INFO MusicFestivals.repositories.DbUtils - Get a new database connection
+2020-04-06 19:29:09,345 [1] INFO MusicFestivals.repositories.DbUtils - Get DB connection string from config file.
+2020-04-06 19:29:09,346 [1] INFO MusicFestivals.repositories.DbUtils - Db conn string: Data Source=/Users/user/UBB/Semestrul_ll/MPP/Festivals/Music_festival.sqlite,Version=3
+2020-04-06 19:29:09,381 [1] INFO MusicFestivals.repositories.DbUtils - Connection established
+2020-04-06 19:29:09,381 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:09,385 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:17,179 [1] INFO MusicFestivals.repositories.RepositoryUser - Find user by username and password
+2020-04-06 19:29:17,179 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:17,179 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:17,184 [1] INFO MusicFestivals.repositories.RepositoryUser - The user was found
+2020-04-06 19:29:28,192 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:28,192 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:28,192 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:28,192 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:32,797 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:32,798 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:32,798 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:32,798 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:35,736 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:35,736 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:35,736 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:35,737 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:37,236 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:37,236 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:37,236 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:37,236 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:37,404 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:37,404 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:37,404 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:37,404 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:43,891 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:43,891 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:43,891 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:43,891 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:45,544 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:45,544 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:45,544 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:45,544 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:45,704 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:45,704 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:45,704 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:45,704 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:29:55,474 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:29:55,474 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:29:55,474 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:29:55,474 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
+2020-04-06 19:30:04,374 [1] INFO MusicFestivals.repositories.RepositoryTicket - Find all tickets
+2020-04-06 19:30:04,374 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:30:04,375 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:30:04,376 [1] INFO MusicFestivals.repositories.RepositoryTicket - Return list of concerts
+2020-04-06 19:30:04,377 [1] INFO MusicFestivals.repositories.RepositoryTicket - Save new Ticket!
+2020-04-06 19:30:04,377 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:30:04,377 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:30:04,381 [1] INFO MusicFestivals.repositories.RepositoryTicket - Ticket added to db
+2020-04-06 19:30:04,382 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find concert by ID
+2020-04-06 19:30:04,382 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:30:04,382 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:30:04,382 [1] INFO MusicFestivals.repositories.RepositoryConcert - Concert was found
+2020-04-06 19:30:04,383 [1] INFO MusicFestivals.repositories.RepositoryConcert - Update concert's seats
+2020-04-06 19:30:04,383 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:30:04,383 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:30:04,384 [1] INFO MusicFestivals.repositories.RepositoryConcert - Seats were updated
+2020-04-06 19:30:04,384 [1] INFO MusicFestivals.repositories.RepositoryConcert - Find all concerts
+2020-04-06 19:30:04,384 [1] INFO MusicFestivals.repositories.DbUtils - Get database connection
+2020-04-06 19:30:04,384 [1] INFO MusicFestivals.repositories.DbUtils - Connection returned.
+2020-04-06 19:30:04,384 [1] INFO MusicFestivals.repositories.RepositoryConcert - Return list of concerts
