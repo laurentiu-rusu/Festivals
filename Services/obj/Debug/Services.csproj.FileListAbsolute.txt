@@ -1,0 +1,8 @@
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/bin/Debug/Services.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/bin/Debug/Services.pdb
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/bin/Debug/Model.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/bin/Debug/Model.pdb
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/obj/Debug/Services.csproj.CoreCompileInputs.cache
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/obj/Debug/Services.csproj.CopyComplete
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/obj/Debug/Services.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Services/obj/Debug/Services.pdb

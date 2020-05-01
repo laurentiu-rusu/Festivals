@@ -1,0 +1,13 @@
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/Persistance.dll.config
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/Persistance.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/Persistance.pdb
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/log4net.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/Model.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/Mono.Data.Sqlite.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/Model.pdb
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/bin/Debug/log4net.xml
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/obj/Debug/Persistance.csprojAssemblyReference.cache
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/obj/Debug/Persistance.csproj.CoreCompileInputs.cache
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/obj/Debug/Persistance.csproj.CopyComplete
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/obj/Debug/Persistance.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Persistance/obj/Debug/Persistance.pdb

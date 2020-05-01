@@ -1,0 +1,6 @@
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Model/bin/Debug/Model.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Model/bin/Debug/Model.pdb
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Model/obj/Debug/Model.csprojAssemblyReference.cache
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Model/obj/Debug/Model.csproj.CoreCompileInputs.cache
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Model/obj/Debug/Model.dll
+/Users/user/UBB/Semestrul_ll/MPP/Festivals/Model/obj/Debug/Model.pdb
